@@ -1,0 +1,2 @@
+Sample text
+I have added a new line.
